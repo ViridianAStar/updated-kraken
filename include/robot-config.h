@@ -21,6 +21,8 @@ extern vision Vision;
 extern motor flywheelACM;
 extern motor Drive3;
 extern motor Drive4;
+extern limit capacitySwitch;
+extern motor Launcher2;
 
 /**
  * Used to initialize code/tasks/devices added using tools in VEXcode Pro.
