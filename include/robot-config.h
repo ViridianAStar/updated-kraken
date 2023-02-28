@@ -23,6 +23,7 @@ extern motor Drive3;
 extern motor Drive4;
 extern limit capacitySwitch;
 extern motor Launcher2;
+extern digital_out PneumaticsCtrl_B;
 
 /**
  * Used to initialize code/tasks/devices added using tools in VEXcode Pro.
